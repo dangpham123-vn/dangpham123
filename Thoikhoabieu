@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+<body>
+<table border="3" >
+<tr>
+  <th></th>
+<th> Thứ Hai </th>
+<th> Thứ Ba </th>
+<th> Thứ Tư </th>
+<th> Thứ Năm </th>
+<th> Thứ Sáu </th>
+</tr>
+<tr>
+<td> Tiết 1 </td>
+<td> SHDC </td>
+<td> Văn </td>
+<td> Toán </td>
+<td> Lý </td>
+<td> Toán </td>
+</tr>
+<tr>
+<td> Tiết 2 </td>
+<td> SHCN </td>
+<td> Tin </td>
+<td> Toán </td>
+<td> Lý </td>
+<td> GDDP </td>  
+</tr>
+  <tr>
+<td> Tiết 3 </td>
+<td> SHDC </td>
+<td> Văn </td>
+<td> Sử </td>
+<td> Văn </td>
+<td> TD </td>  
+  </tr>
+  <tr>
+<td> Tiết 4 </td>
+<td> Hoá </td>
+<td> Văn </td>
+<td> Địa </td>
+<td> Lý </td>
+<td> QP </td>  
+  </tr>
+</body>
